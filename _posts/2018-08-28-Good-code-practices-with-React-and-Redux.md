@@ -8,4 +8,5 @@ fig-caption: # Add figcaption (optional)
 tags: [Javascript, HTML, React, Redux, Good_Practices]
 external_url: https://blog.scottlogic.com/2018/08/28/Good-code-practices-with-React-and-Redux.html
 external_site: SCOTT_LOGIC_BLOG
+reading_time: 6
 ---

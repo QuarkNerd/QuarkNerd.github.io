@@ -8,4 +8,5 @@ fig-caption: # Add figcaption (optional)
 tags: [Good_Practices, General]
 external_url: https://blog.scottlogic.com/2020/01/08/What-Improv-can-teach-us-about-good-code-design.html
 external_site: SCOTT_LOGIC_BLOG
+reading_time: 7
 ---
