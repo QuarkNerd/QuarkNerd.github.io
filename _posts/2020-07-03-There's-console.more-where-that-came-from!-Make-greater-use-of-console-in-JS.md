@@ -7,7 +7,7 @@ summary: The function console.log is a JS developer's best friend. In this post
   project, or help you mess around.
 img: i-rest.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-tags: [Javascript, Console]
+tags: [Javascript]
 external_url: https://blog.scottlogic.com/2020/07/03/There's-console.more-where-that-came-from!-Make-greater-use-of-console-in-JS.html
 external_site: SCOTT_LOGIC_BLOG
 ---

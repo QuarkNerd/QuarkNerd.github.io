@@ -1302,9 +1302,12 @@ a.newer-posts:hover {
   font-size: 10px;
   padding: 5px 10px;
   margin-left: 5px;
+  margin-top: 5px;
   color: #263959;
   text-transform: uppercase;
   border: 1px solid #263959;
+  white-space: nowrap;
+  display: inline-block;
 }
 
 .page-content .page-tag a:hover,
