@@ -180,6 +180,11 @@ footer {
       margin-top: 0;
     }
   }
+
+  .post-none-format-link {
+    color: inherit; /* blue colors for links too */
+    text-decoration: inherit; /* no underline */
+  }
 }
 
 a.older-posts, a.newer-posts {

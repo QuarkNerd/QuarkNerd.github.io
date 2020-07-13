@@ -46,6 +46,21 @@
   }
 }
 
+@mixin page-tag {
+  a {
+      text-decoration: none;
+      font-size: 10px;
+      padding: 5px 10px;
+      margin-left: 5px;
+      color: $dark-blue;
+      text-transform: uppercase;
+      border: 1px solid $dark-blue;
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+}
+
 .page-footer {
   display: flex;
   justify-content: space-between;
@@ -75,17 +90,12 @@
     }
   }
   .page-tag {
-    a {
-      text-decoration: none;
-      font-size: 10px;
-      padding: 5px 10px;
-      margin-left: 5px;
-      color: $dark-blue;
-      text-transform: uppercase;
-      border: 1px solid $dark-blue;
-      &:hover {
-        text-decoration: underline;
-      }
-    }
+    @include page-tag;
+  }
+}
+
+.page-content {
+  .page-tag {
+    @include page-tag;
   }
 }
