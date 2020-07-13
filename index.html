@@ -15,7 +15,7 @@ layout: main
   <a class="post-none-format-link" {% if post.external_url %} href="{{ post.external_url }}" {% else %}}
     href="{{post.url | prepend: site.baseurl}}" {% endif %}>
       <h2 class="post-title">{{post.title}}</h2>
-      <p>{{ post.content | strip_html | truncatewords: 15 }}</p>
+      <p>{{ post.summary }}</p>
       <span class="post-date">{{post.date | date: '%Y, %b %d'}}&nbsp;&nbsp;&nbsp;—&nbsp;</span>
       <span
         class="post-words">
