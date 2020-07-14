@@ -9,6 +9,6 @@ img: i-rest.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Javascript]
 external_url: https://blog.scottlogic.com/2020/07/03/There's-console.more-where-that-came-from!-Make-greater-use-of-console-in-JS.html
-external_site: SCOTT_LOGIC_BLOG
+external_site: the Scott Logic Blog
 reading_time: 5
 ---
