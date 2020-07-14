@@ -11,10 +11,19 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Gurveer Arora # add your name
 author-img: gurveer-arora.jpg # add your photo
-about-author: I am a developer at Scott Logic. Always learning. My experience includes with Javascript, Typescript, C#, Rust and Python. See some of my projects hosted below, more exist on github.  # add description
+about-author: MPhys Graduate. <br> Developer at Scott Logic. <br> Always Learning. <hr> Experience includes with JS, TS, React, C#, Rust and Python. <hr> Some of my projects hosted below, more exist on github. See my blog posts, the topics are anything I find interesting.  # add description
 social-github: quarknerd # add your Github handle
 social-linkedin: gurveer-arora-87767711a # add your Linkedin handle
 social-email: Garora1410@yahoo.co.uk # add your Email address
+
+# projects
+projects: 
+  - name: Flappy Bird in D3
+    link: https://quarknerd.github.io/d3_flappy_bird/
+  - name: Game of life in React
+    link: https://quarknerd.github.io/react_game-of-life/
+  - name: Dice roller in THREEjs
+    link: https://quarknerd.github.io/threejs_die_roller/
 
 # # Disqus
 # discus-identifier: # add your discus identifier
